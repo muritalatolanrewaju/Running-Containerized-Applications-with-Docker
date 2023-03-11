@@ -1,8 +1,8 @@
-# Lab: Running a Web Server in a Docker Container
+# Lab: Running Web Servers in a Docker Container
 
-## 1. Running a Web Server in a Docker Container
+## 1. Running Web Servers in a Docker Container
 
-- Running three nginx and one Apache webserver
+- Running three nginx and one Apache webservers
 
 ```bash
 docker container run -d -p 80:80 --name mysite1 nginx
