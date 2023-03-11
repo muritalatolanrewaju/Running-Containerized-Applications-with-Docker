@@ -30,17 +30,23 @@ theme:
   language: en
   palette:
     - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
       primary: teal
-      accent: purple 
-    - scheme: slate 
+      accent: purple
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
       primary: teal
       accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
 
 extra:
   social:

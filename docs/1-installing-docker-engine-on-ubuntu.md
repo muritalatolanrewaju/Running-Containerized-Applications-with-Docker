@@ -12,7 +12,7 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 If no older version is present, below is the output:
 
-![Untitled](images/installing-docker-engine-on-ubuntu/Untitled.png)
+![Untitled](assets/images/installing-docker-engine-on-ubuntu/Untitled.png)
 
 ## 2. **Installation using the repository**
 
@@ -77,7 +77,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo systemctl status docker
 ```
 
-![Untitled](images/installing-docker-engine-on-ubuntu/Untitled%201.png)
+![Untitled](assets/images/installing-docker-engine-on-ubuntu/Untitled%201.png)
 
 - Add current user `muritala` to the Docker group to be able to run the docker command.
 
@@ -97,6 +97,6 @@ exit
 docker --version
 ```
 
-![Untitled](images/installing-docker-engine-on-ubuntu/Untitled%202.png)
+![Untitled](assets/images/installing-docker-engine-on-ubuntu/Untitled%202.png)
 
 ### Reference: [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
