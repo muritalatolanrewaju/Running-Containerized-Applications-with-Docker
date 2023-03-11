@@ -7,8 +7,8 @@ One of the predictions of the analyst firm Gartner is that by 2022, 75% of organ
 
 This practical project covers how to run containerized applications with Docker. At the end of this project, students will know how to:
 
-1. [Install Docker Engine on Ubuntu](1-installing-docker-engine-on-ubuntu.md),
-2. [Understand the Docker Client](2-the-docker-client.md),
-3. [Lab: Running Web Servers in a Docker Container](3-lab-running-webservers-in-a-docker-container.md),
-4. [Getting Shell Access to a Container](4-getting-shell-access-to-a-container.md), and
-5. [Modifying a Container](5-modifying-a-container.md).
+1. [Install Docker Engine on Ubuntu](docs/1-installing-docker-engine-on-ubuntu.md),
+2. [Understand the Docker Client](docs/2-the-docker-client.md),
+3. [Lab: Running Web Servers in a Docker Container](docs/3-lab-running-webservers-in-a-docker-container.md),
+4. [Getting Shell Access to a Container](docs/4-getting-shell-access-to-a-container.md), and
+5. [Modifying a Container](docs/5-modifying-a-container.md).
