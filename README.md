@@ -1,1 +1,1 @@
-# -Running-Containerized-Applications-with-Docker
+# Running-Containerized-Applications-with-Docker
