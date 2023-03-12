@@ -2,7 +2,7 @@
 
 ## 1. Running Web Servers in a Docker Container
 
-- Running three nginx and one Apache webservers
+- Running three nginx and one Apache web servers
 
 ```bash
 docker container run -d -p 80:80 --name mysite1 nginx
