@@ -1,6 +1,8 @@
 site_name: Running Containerized Applications with Docker
 site_url: https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/
 site_author: Muritala Olanrewaju
+repo_name: muritalatolanrewaju/Running-Containerized-Applications-with-Docker/
+repo_url: https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker/
 theme:
   name: material
   features:
