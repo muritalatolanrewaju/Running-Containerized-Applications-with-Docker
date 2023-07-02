@@ -117,7 +117,7 @@ sudo groupadd docker && sudo usermod -aG docker $USER
 
 ```bash
  docker run --rm hello-world && docker rmi hello-world
- ```
+```
 
 ## 5. **Configure Docker to Start on Boot with `systemd`**
 
