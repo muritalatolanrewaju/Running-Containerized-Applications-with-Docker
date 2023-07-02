@@ -17,6 +17,13 @@ docker container run -d -p 8082:80 --name mysite4 httpd
 docker container ls
 ```
 
+or
+
+```bash
+docker ps
+```
+
+
 ![Untitled](assets/images/lab-running-a-webserver-in-a-docker-container/Untitled.png)
 
 - Enter the `ipaddress:port` of the server into a web browser to confirm its status.

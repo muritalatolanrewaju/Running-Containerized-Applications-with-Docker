@@ -79,3 +79,21 @@ docker container ls
 ```
 
 ![Untitled](assets/images/the-docker-client//Untitled%204.png)
+
+- Check stopped containers using:
+  
+```bash
+docker ps -a
+```
+
+or
+
+```bash
+docker container ls -a
+```
+
+- Make all currently running docker container run `always` after reboot or stopped using:
+
+```bash
+docker update --restart always $(docker ps -q)
+```
