@@ -127,7 +127,7 @@ Many modern Linux distributions use `systemd` to manage which services start whe
 
 ```bash
  sudo systemctl enable docker.service && sudo systemctl enable containerd.service
- ```
+```
 
 - Log out and then in for a change to take effect.
 
