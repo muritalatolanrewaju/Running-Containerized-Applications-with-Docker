@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/1-installing-docker-engine-on-ubuntu/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/2-the-docker-client/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/3-lab-running-webservers-in-a-docker-container/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/4-getting-shell-access-to-a-container/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/5-modifying-a-container/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
